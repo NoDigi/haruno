@@ -22,15 +22,15 @@ global.APIKeys = { // APIKey nya disini
   'https://api.xteam.xyz': 'HIRO',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'FVe0JFCdME58YSKmhoDWdRtyuJt',
-  'https://api.lolhuman.xyz': '929b48b9aa5a91abed8526cd',
+  'https://api.lolhuman.xyz': '886e0ade87d2da2cab7f1906',
   'https://api.vhtear.com': 'sayahafiz',
   'http://zekais-api.herokuapp.com': 'grqgD6pU',
   'https://bx-hunter.herokuapp.com': 'Ikyy69',
 }
 
 // Sticker WM
-global.packname = 'Haruno'
-global.author = 'Fadli'
+global.packname = 'Bot'
+global.author = 'Lyn'
 
 global.wait = '「 ⏱️ 」Harap tunggu...'
 global.eror = '「❗」Server ERROR!'
