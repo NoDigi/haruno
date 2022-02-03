@@ -17,14 +17,14 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey nya disini
   // 'https://website': 'apikey'
-  'https://api.neoxr.eu.org/': 'yntkts',
+  'https://api.neoxr.eu.org/': 'kfaa4uhhoD',
   'https://pencarikode.xyz': 'APIKEY',
-  'https://api.xteam.xyz': 'HIRO',
+  'https://api.xteam.xyz': 'f6898e891be84fcd',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'FVe0JFCdME58YSKmhoDWdRtyuJt',
   'https://api.lolhuman.xyz': '886e0ade87d2da2cab7f1906',
   'https://api.vhtear.com': 'sayahafiz',
-  'http://zekais-api.herokuapp.com': 'grqgD6pU',
+  'http://zekais-api.herokuapp.com': 'vyKvkWeK',
   'https://bx-hunter.herokuapp.com': 'Ikyy69',
 }
 
@@ -37,7 +37,7 @@ global.eror = '「❗」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.watermark = '© Bot Lyn🌸'
 global.image = 'https://telegra.ph/file/5fa8a551000fd4461acb7.jpg'
-global.thumbfoto = 'https://telegra.ph/file/cedc1c4453b7ac93b04e9.jpg'
+global.thumbfoto = 'https://telegra.ph/file/8cc8af4778d64f3c5360c.jpg'
 
 global.multiplier = 59 // Semakin tinggi, semakin sulit naik level
 
